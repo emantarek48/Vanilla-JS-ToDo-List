@@ -26,6 +26,8 @@ This project was created to practice JavaScript fundamentals such as DOM manipul
 ## Screenshot
 ![To-Do List Screenshot](TDL.png)
 
+## 🌐 Live Demo
+Check it out here: [Live Demo](https://emantarek48.github.io/Vanilla-JS-ToDo-List/)
 
 ## 📂 Project Structure
 
