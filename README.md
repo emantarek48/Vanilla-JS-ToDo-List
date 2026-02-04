@@ -23,7 +23,9 @@ This project was created to practice JavaScript fundamentals such as DOM manipul
 - CSS3
 - JavaScript (Vanilla JS)
 
----
+## Screenshot
+![To-Do List Screenshot](TDL.png)
+
 
 ## 📂 Project Structure
 
